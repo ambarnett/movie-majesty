@@ -16,3 +16,11 @@ export const generateMoviesHTML = () => {
 
     return movieHTML;
 }
+
+//Taylor Acorn
+// Rain city drive
+// Charlotte sands
+// If not for me
+// beauty school dropout
+// Arrows in action
+// huddy
